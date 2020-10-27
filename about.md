@@ -1,4 +1,7 @@
-# about the site
+---
+layout: default-layout.njk
+title: about the site
+--- 
 
 >blockquote can go here
 
