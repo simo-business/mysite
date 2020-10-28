@@ -1,11 +1,12 @@
 html, body {
     margin:0;
     padding:0;
-    background-color: darkslategray;
+
 }
 body {
     max-width: 50rem;
     margin: 0 auto;
+    background-color: darkslategray;
 }
 nav ul {
     list-style: none;
@@ -17,3 +18,8 @@ nav ul li{
     padding: 5px
 }
 
+#social {
+    color: bisque;
+    text-align: center;
+
+}
