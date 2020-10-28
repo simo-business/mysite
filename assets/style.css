@@ -11,15 +11,15 @@ body {
 nav ul {
     list-style: none;
     display: flex;
-    background: aliceblue
+    background: aliceblue;
 }
 
 nav ul li{
-    padding: 5px
+    padding: 5px;
 }
 
 #social {
-    background-color: bisque;
+    background: bisque;
     text-align: center;
 
 }
